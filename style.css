@@ -1,0 +1,54 @@
+body{
+    background-color:blueviolet;
+    color:white;
+    align-items: center;
+}
+.main{
+    margin:12%;
+    width:90%;
+
+
+}
+.display{
+    width:400px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    background-color:white;
+
+    color:aliceblue;
+
+
+    padding: 25px 25px;
+    border-radius: 10px;
+
+}
+#icon{
+    color:black;
+}
+#b:hover
+{
+    background-color: beige;
+    
+    
+    
+}
+#b{
+    color: black;
+    background-color:floralwhite;
+    border-radius: 5px;
+    width:auto;
+    height:40px;
+    color:black;
+    font-style:italic;
+}
+.display input{
+    width:300px;
+    height: 50px;
+    outline: 0;
+    border:0;
+    font-size: 24px;
+
+}
+
